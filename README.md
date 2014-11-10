@@ -1,1 +1,1 @@
-Note management. In use [here](http://lekhakpadmanabh.github.io). You will need some scaffolding css/js for publishing, this does the base note management.
+Git based CLI note management. In use as a static blogger [here](http://lekhakpadmanabh.github.io). You will need some scaffolding css/js for publishing see [this](https://github.com/lekhakpadmanabh/lekhakpadmanabh.github.io) for an example. 
